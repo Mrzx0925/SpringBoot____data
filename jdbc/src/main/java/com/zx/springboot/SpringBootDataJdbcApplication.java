@@ -1,4 +1,4 @@
-package com.zx.springbootd;
+package com.zx.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

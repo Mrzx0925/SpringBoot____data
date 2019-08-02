@@ -1,4 +1,4 @@
-package com.zx.springbootd;
+package com.zx.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
